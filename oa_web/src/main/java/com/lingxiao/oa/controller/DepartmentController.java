@@ -5,10 +5,10 @@ import com.lingxiao.oa.service.DepartmentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.servlet.ModelAndView;
 
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 import java.util.Arrays;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
@@ -24,6 +24,39 @@ public class DepartmentController {
         System.out.println(" ==========="+ Arrays.toString(all.toArray()));
         map.put("list",all);
         return "department_list";
-    };
+    }
 
+    @RequestMapping("/to_add")
+    public String toAdd(Map<String,Object> map){
+        Department department = new Department();
+        map.put("dept",department);
+        System.out.println("添加部门界面");
+        return "department_add";
+    }
+
+    @RequestMapping("/add")
+    public String add(Department department){
+        departmentService.addDepartment(department);
+        System.out.println("添加部门");
+        return "redirect:list";
+    }
+
+    @RequestMapping("/remove")
+    public String remove(String sn){
+        departmentService.remove(sn);
+        return "redirect:list";
+    }
+
+    @RequestMapping(value = "/to_edit",params = "sn")
+    public String toEdit(String sn,Map<String,Object> map){
+        Department department = departmentService.find(sn);
+        map.put("dept",department);
+        return "department_edit";
+    }
+
+    @RequestMapping("/edit")
+    public String edit(Department department){
+        departmentService.edit(department);
+        return "redirect:list";
+    }
 }

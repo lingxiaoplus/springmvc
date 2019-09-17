@@ -62,8 +62,8 @@
                                 <td>${dept.name}</td>
                                 <td>${dept.address}</td>
                                 <td>
-                                    <a href="/department/to_update?sn=${dept.sn}">编辑</a>
-                                    <a href="/department/remove?sn=${dept.sn}">删除</a>
+                                    <a href="../department/to_edit?sn=${dept.sn}">编辑</a>
+                                    <a href="../department/remove?sn=${dept.sn}">删除</a>
                                 </td>
                             </tr>
                         </c:forEach>

@@ -2,22 +2,22 @@
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.4//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.lingxiao.oa.dao.DepartmentDao">
     <resultMap id="resultMap" type="Department">
-        <id property="id" column="sn" javaType="String"/>
+        <id property="sn" column="sn" javaType="String"/>
         <result property="name" column="name" javaType="String"/>
         <result property="address" column="address" javaType="String"/>
     </resultMap>
 
     <insert id="insert" parameterType="Department">
-        insert into department(name,address) values(#{sn},#{name},#{address})
+        insert into department(sn,name,address) values(#{sn},#{name},#{address})
     </insert>
     <delete id="delete" parameterType="String">
         delete from department where sn=#{sn}
     </delete>
     <update id="update" parameterType="Department">
-        update department set name=#{name},address=#{address} where sn=#{id}
+        update department set name=#{name},address=#{address} where sn=#{sn}
     </update>
     <select id="findBySn" parameterType="String" resultMap="resultMap" >
-        select * from department where sn=#{id}
+        select * from department where sn=#{sn}
     </select>
     <select id="findAll" resultMap="resultMap">
         select * from department

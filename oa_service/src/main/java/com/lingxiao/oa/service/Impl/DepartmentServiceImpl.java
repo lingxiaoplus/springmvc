@@ -10,6 +10,7 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 @Service("departmentService")
 public class DepartmentServiceImpl implements DepartmentService {
+
     @Autowired
     private DepartmentDao departmentDao;
     public void addDepartment(Department department) {

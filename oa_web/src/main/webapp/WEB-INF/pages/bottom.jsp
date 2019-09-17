@@ -2,6 +2,10 @@
 
 </section>
 </div>
+<%
+    String path = request.getContextPath();
+    String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path;
+%>
 <style>
     /* demo page styles */
     body { min-height: 2300px; }
@@ -34,16 +38,16 @@
         -webkit-appearance: none; /*Optionally disable dropdown arrow*/
     }
 </style>
-<script src="/vendor/jquery/jquery-1.11.1.min.js"></script>
-<script src="/vendor/jquery/jquery_ui/jquery-ui.min.js"></script>
-<script src="/assets/admin-tools/admin-forms/js/jquery.validate.min.js"></script>
-<script src="/assets/admin-tools/admin-forms/js/additional-methods.min.js"></script>
-<script src="/assets/admin-tools/admin-forms/js/jquery-ui-datepicker.min.js"></script>
-<script src="/assets/js/utility/utility.js"></script>
-<script src="/assets/js/demo/demo.js"></script>
-<script src="/assets/js/main.js"></script>
-<script type="text/javascript" src="/js/pages.js"></script>
-<script type="text/javascript" src="/js/items.js"></script>
+<script src="<%=basePath%>/vendor/jquery/jquery-1.11.1.min.js"></script>
+<script src="<%=basePath%>/vendor/jquery/jquery_ui/jquery-ui.min.js"></script>
+<script src="<%=basePath%>/assets/admin-tools/admin-forms/js/jquery.validate.min.js"></script>
+<script src="<%=basePath%>/assets/admin-tools/admin-forms/js/additional-methods.min.js"></script>
+<script src="<%=basePath%>/assets/admin-tools/admin-forms/js/jquery-ui-datepicker.min.js"></script>
+<script src="<%=basePath%>/assets/js/utility/utility.js"></script>
+<script src="<%=basePath%>/assets/js/demo/demo.js"></script>
+<script src="<%=basePath%>/assets/js/main.js"></script>
+<script type="text/javascript" src="<%=basePath%>/js/pages.js"></script>
+<script type="text/javascript" src="<%=basePath%>/js/items.js"></script>
 </body>
 </html>
 

@@ -1,7 +1,10 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html>
-
+ <%
+String path = request.getContextPath();
+String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path;
+%>
 
 <!-- Mirrored from admindesigns.com/demos/absolute/1.1/admin_forms-validation.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 06 Aug 2015 02:56:15 GMT -->
 <head>
@@ -10,9 +13,9 @@
 
     <title> 爱慕课OA--欢迎使用爱慕课OA系统 </title>
 
-    <link rel="stylesheet" type="text/css" href="/assets/skin/default_skin/css/theme.css">
-    <link rel="stylesheet" type="text/css" href="/assets/admin-tools/admin-forms/css/admin-forms.css">
-    <link rel="shortcut icon" href="/assets/img/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="<%=basePath%>/assets/skin/default_skin/css/theme.css">
+    <link rel="stylesheet" type="text/css" href="<%=basePath%>/assets/admin-tools/admin-forms/css/admin-forms.css">
+    <link rel="shortcut icon" href="<%=basePath%>/assets/img/favicon.ico">
 </head>
 
 <body class="admin-validation-page" data-spy="scroll" data-target="#nav-spy" data-offset="200">
@@ -27,7 +30,7 @@
         <ul class="nav navbar-nav navbar-right">
             <li class="dropdown menu-merge">
                 <a href="#" class="dropdown-toggle fw600 p15" data-toggle="dropdown">
-                    <img src="/assets/img/avatars/5.jpg" alt="avatar" class="mw30 br64">
+                    <img src="<%=basePath%>/assets/img/avatars/5.jpg" alt="avatar" class="mw30 br64">
                     <span class="hidden-xs pl15"> 刘备 </span>
                     <span class="caret caret-tp hidden-xs"></span>
                 </a>
@@ -56,7 +59,7 @@
                 <div class="sidebar-widget author-widget">
                     <div class="media">
                         <a class="media-left" href="#">
-                            <img src="assets/img/avatars/3.jpg" class="img-responsive">
+                            <img src="<%=basePath%>/assets/img/avatars/3.jpg" class="img-responsive">
                         </a>
                         <div class="media-body">
                             <div class="media-author">刘备--总经理</div>
@@ -124,11 +127,11 @@
                     </a>
                     <ul class="nav sub-nav">
                         <li>
-                            <a href="/department/list">
+                            <a href="<%=basePath%>/department/list">
                                 <span class="glyphicon glyphicon-calendar"></span> 所有部门 </a>
                         </li>
                         <li class="active">
-                            <a href="/department/to_add">
+                            <a href="<%=basePath%>/department/to_add">
                                 <span class="glyphicon glyphicon-check"></span> 添加部门 </a>
                         </li>
                     </ul>
