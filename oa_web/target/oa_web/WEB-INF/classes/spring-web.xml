@@ -21,4 +21,10 @@
         <property name="suffix" value=".jsp"/>
     </bean>
 
+    <mvc:interceptors>
+        <mvc:interceptor>
+            <mvc:mapping path="/**"/>
+            <bean class="com.lingxiao.oa.global.LoginInterceptor"/>
+        </mvc:interceptor>
+    </mvc:interceptors>
 </beans>

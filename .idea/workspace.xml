@@ -7,39 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ecd827f2-0622-466d-8438-c5185675d9ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_dao/oa_dao.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_dao/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_dao/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_dao/src/main/resources/com.lingxiao.oa.dao/DepartmentDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_dao/target/classes/META-INF/oa_dao.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_dao/target/classes/com.lingxiao.oa.dao/DepartmentDao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_service/oa_service.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/DepartmentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/DepartmentServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_service/target/classes/com/lingxiao/oa/service/Impl/DepartmentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_service/target/classes/com/lingxiao/oa/service/Impl/DepartmentServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/a.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_dao/target/classes/com/lingxiao/oa/dao/EmployeeDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_dao/target/classes/com/lingxiao/oa/dao/EmployeeDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_dao/target/classes/com/lingxiao/oa/entity/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_dao/target/classes/com/lingxiao/oa/entity/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/bottom.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/bottom.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/classes/com/lingxiao/oa/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/classes/com/lingxiao/oa/controller/DepartmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/classes/com/lingxiao/oa/controller/DepartmentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/classes/spring-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/classes/spring-web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_web/target/classes/com/lingxiao/oa/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/classes/com/lingxiao/oa/controller/EmployeeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/com/lingxiao/oa/a.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/com/lingxiao/oa/controller/DepartmentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/com/lingxiao/oa/controller/DepartmentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/spring-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/spring-web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/com/lingxiao/oa/controller/EmployeeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/classes/com/lingxiao/oa/controller/EmployeeController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/lib/oa_dao-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/lib/oa_dao-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/lib/oa_service-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/lib/oa_service-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/bottom.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/bottom.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/department_list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/department_list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/pages/top.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oa_web/target/oa_web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/oa_web/target/oa_web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -57,8 +38,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+            <state relative-caret-position="701">
+              <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,24 +57,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/LoginController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="346">
-              <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+            <state relative-caret-position="333">
+              <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/EmployeeService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#956#957#0" expanded="true" />
+                <element signature="e#1343#1344#0" expanded="true" />
+                <element signature="e#1367#1368#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,26 +77,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="2" selection-start-line="3" selection-start-column="1" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="506">
+              <caret line="142" column="20" lean-forward="true" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/changePassword.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="400">
+              <caret line="19" column="68" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="68" />
+              <folding>
+                <element signature="e#371#401#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp">
+        <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/self.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
+            <state relative-caret-position="425">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="69" />
+              <folding>
+                <element signature="e#371#401#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,9 +113,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="spring-beans.schema" />
-        <option value="Jsp File" />
         <option value="mybatis-config" />
         <option value="Interface" />
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -153,20 +143,31 @@
         <option value="$PROJECT_DIR$/oa_dao/src/main/resources/com.lingxiao.oa.dao/DepartmentDao.xml" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/test.jsp" />
-        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/bottom.jsp" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_add.jsp" />
         <option value="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_edit.jsp" />
         <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp" />
         <option value="$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/dao/EmployeeDao.java" />
-        <option value="$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml" />
         <option value="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/EmployeeService.java" />
-        <option value="$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java" />
         <option value="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/EmployeeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_add.jsp" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java" />
+        <option value="$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml" />
         <option value="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_edit.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_list.jsp" />
+        <option value="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/LoginService.java" />
+        <option value="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/LoginService.java" />
+        <option value="$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/LoginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/self.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/global/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/changePassword.jsp" />
+        <option value="$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp" />
       </list>
     </option>
   </component>
@@ -184,11 +185,11 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="532" />
-    <option name="y" value="161" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="201" />
+    <option name="y" value="191" />
+    <option name="width" value="1750" />
+    <option name="height" value="1060" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -200,43 +201,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -244,8 +245,8 @@
               <item name="oa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -254,8 +255,8 @@
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -264,8 +265,8 @@
               <item name="entity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -274,16 +275,16 @@
               <item name="global" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -291,40 +292,34 @@
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
-              <item name="oa_dao" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -332,8 +327,8 @@
               <item name="oa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -342,8 +337,8 @@
               <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -353,34 +348,34 @@
               <item name="Impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -388,8 +383,8 @@
               <item name="oa" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -398,42 +393,62 @@
               <item name="controller" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
+              <item name="oa_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="oa" type="462c0819:PsiDirectoryNode" />
+              <item name="global" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="springmvc" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springmvc" type="462c0819:PsiDirectoryNode" />
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
               <item name="oa_web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="OA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OA" type="462c0819:PsiDirectoryNode" />
+              <item name="oa_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568714693420" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../oa" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568732308470" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
@@ -463,7 +478,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Tomcat 8.5.45" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.45" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+    <configuration name="Tomcat 8.5.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/oa_web_war_exploded/department/list" />
       <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
@@ -614,17 +629,18 @@
       <updated>1568635080054</updated>
       <workItem from="1568635083807" duration="9413000" />
       <workItem from="1568685402213" duration="21397000" />
+      <workItem from="1568719325951" duration="7128000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30810000" />
+    <option name="totallyTimeSpent" value="37938000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20761803" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20611836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -634,7 +650,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32920536" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41564247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41528925" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.326257" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,7 +660,7 @@
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.3273743" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3264463" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" />
@@ -698,50 +714,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/global/EncodingFilter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/assets/js/demo/charts/d3.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/assets/js/utility/utility.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/js/items.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/js/pages.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/global/Contant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#340#348#0" expanded="true" />
-            <element signature="e#591#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.2.RELEASE/spring-web-4.0.2.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.2.RELEASE/spring-webmvc-4.0.2.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/4.0.2.RELEASE/spring-webmvc-4.0.2.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.0.2.RELEASE/spring-aop-4.0.2.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="259">
@@ -801,17 +773,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#575#576#0" expanded="true" />
             <element signature="e#623#624#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Department.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-162">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -915,27 +876,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/test.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="2" selection-start-line="3" selection-start-column="1" selection-end-line="6" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/test.jsp" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/structural.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -974,82 +915,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/dao/DepartmentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="13" column="31" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="13" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/dao/EmployeeDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="18" column="103" selection-start-line="18" selection-start-column="103" selection-end-line="18" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/DepartmentDao.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
           <caret line="23" column="13" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#722#723#0" expanded="true" />
-            <element signature="e#770#771#0" expanded="true" />
-            <element signature="e#801#802#0" expanded="true" />
-            <element signature="e#828#829#0" expanded="true" />
-            <element signature="e#868#869#0" expanded="true" />
-            <element signature="e#900#901#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1063,27 +932,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/EmployeeServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/dao/DepartmentDao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="300">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#563#564#0" expanded="true" />
-            <element signature="e#617#618#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#427#428#0" expanded="true" />
-            <element signature="e#465#466#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/department_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="64" column="66" selection-start-line="64" selection-start-column="66" selection-end-line="64" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Department.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/entity/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="55" column="37" selection-start-line="55" selection-start-column="37" selection-end-line="55" selection-end-column="37" />
+          <folding>
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#977#978#0" expanded="true" />
+            <element signature="e#1010#1011#0" expanded="true" />
+            <element signature="e#1066#1067#0" expanded="true" />
+            <element signature="e#1110#1111#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/resources/com/lingxiao/oa/dao/EmployeeDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="64" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="e#447#477#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="37" column="82" selection-start-line="37" selection-start-column="82" selection-end-line="37" selection-end-column="82" />
+          <folding>
+            <element signature="e#445#475#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/employee_list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="68" column="58" selection-start-line="68" selection-start-column="58" selection-end-line="68" selection-end-column="58" />
+          <folding>
+            <element signature="e#437#467#0#HTML" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/EmployeeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
+        <state relative-caret-position="150">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1091,12 +1022,125 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java">
+    <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/EmployeeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+        <state relative-caret-position="75">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_dao/src/main/java/com/lingxiao/oa/dao/EmployeeDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/Impl/LoginServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_service/src/main/java/com/lingxiao/oa/service/LoginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="26" column="53" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/self.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="69" />
+          <folding>
+            <element signature="e#371#401#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/EmployeeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="44" column="31" lean-forward="true" selection-start-line="44" selection-start-column="31" selection-end-line="44" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/global/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="22" column="90" lean-forward="true" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/resources/spring-web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="29" column="8" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/changePassword.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="68" />
+          <folding>
+            <element signature="e#371#401#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/webapp/WEB-INF/pages/top.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="142" column="20" lean-forward="true" selection-start-line="142" selection-start-column="20" selection-end-line="142" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/DepartmentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="701">
+          <caret line="60" column="5" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oa_web/src/main/java/com/lingxiao/oa/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="47" column="38" lean-forward="true" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#956#957#0" expanded="true" />
+            <element signature="e#1343#1344#0" expanded="true" />
+            <element signature="e#1367#1368#0" expanded="true" />
           </folding>
         </state>
       </provider>

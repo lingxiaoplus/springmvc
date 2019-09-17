@@ -36,17 +36,17 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                 </a>
                 <ul class="dropdown-menu list-group dropdown-persist w250" role="menu">
                     <li class="list-group-item">
-                        <a href="/self" class="animated animated-short fadeInUp">
+                        <a href="<%=basePath%>/self" class="animated animated-short fadeInUp">
                             <span class="fa fa-user"></span> 个人信息
                             <span class="label label-warning"></span>
                         </a>
                     </li>
                     <li class="list-group-item">
-                        <a href="/to_change_password" class="animated animated-short fadeInUp">
+                        <a href="<%=basePath%>/to_changePassword" class="animated animated-short fadeInUp">
                             <span class="fa fa-gear"></span> 设置密码 </a>
                     </li>
                     <li class="dropdown-footer">
-                        <a href="/quit" class="">
+                        <a href="<%=basePath%>/quit" class="">
                             <span class="fa fa-power-off pr5"></span> 退出 </a>
                     </li>
                 </ul>
@@ -64,7 +64,7 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                         <div class="media-body">
                             <div class="media-author">刘备--总经理</div>
                             <div class="media-links">
-                                <a href="/quit">退出</a>
+                                <a href="<%=basePath%>/quit">退出</a>
                             </div>
                         </div>
                     </div>
@@ -110,11 +110,11 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
                     </a>
                     <ul class="nav sub-nav">
                         <li>
-                            <a href="/employee/list">
+                            <a href="<%=basePath%>/employee/list">
                                 <span class="glyphicon glyphicon-calendar"></span> 所有员工 </a>
                         </li>
                         <li class="active">
-                            <a href="/employee/to_add">
+                            <a href="<%=basePath%>/employee/to_add">
                                 <span class="glyphicon glyphicon-check"></span> 添加员工 </a>
                         </li>
                     </ul>

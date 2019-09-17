@@ -7,6 +7,9 @@
         <result property="password" column="password" javaType="String"/>
         <result property="departmentSn" column="department_sn" javaType="String"/>
         <result property="post" column="post" javaType="String"/>
+        <association property="department" column="department_sn" javaType="Department" select="com.lingxiao.oa.dao.DepartmentDao.findBySn">
+
+        </association>
     </resultMap>
 
     <insert id="insert" parameterType="Employee">

@@ -6,6 +6,8 @@ public class Employee {
     private String password;
     private String departmentSn;
     private String post;
+    private Department department;
+
 
     public String getSn() {
         return sn;
@@ -45,5 +47,25 @@ public class Employee {
 
     public void setPost(String post) {
         this.post = post;
+    }
+
+    public Department getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(Department department) {
+        this.department = department;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "sn='" + sn + '\'' +
+                ", name='" + name + '\'' +
+                ", password='" + password + '\'' +
+                ", departmentSn='" + departmentSn + '\'' +
+                ", post='" + post + '\'' +
+                ", department=" + department +
+                '}';
     }
 }
